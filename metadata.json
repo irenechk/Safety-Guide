@@ -1,0 +1,7 @@
+{
+  "name": "GuardianAngel",
+  "description": "A friendly, reassuring personal safety assistant that provides practical advice, emergency contacts, and safe haven directions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
